@@ -7,7 +7,7 @@
 
 I build full-stack web applications — Python backends paired with React, Next.js, and TypeScript on the frontend. I also enjoy data-visualization work with D3.js.
 
-🌐 **Portfolio** — [github.com/Azhar-ud/portfolio](https://github.com/Azhar-ud/portfolio) *(live site coming soon on Vercel)*
+🌐 **Portfolio** — [portfolio-mu-six-30.vercel.app](https://portfolio-mu-six-30.vercel.app)
 
 ### Tech Stack
 
